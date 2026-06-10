@@ -77,7 +77,7 @@ Patrick Kasten
 
 GitHub: https://github.com/Patrone411
 
-LinkedIn: [www.linkedin.com/in/patrick-kasten](http://www.linkedin.com/in/patrick-kasten)
+LinkedIn: [www.linkedin.com/in/patrick-kasten](https://www.linkedin.com/in/patrick-kasten-358043167/)
 
 ## License
 
